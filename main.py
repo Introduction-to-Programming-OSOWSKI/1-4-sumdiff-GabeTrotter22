@@ -1,4 +1,4 @@
 def sumDiff(a, b):
-    return (a + b) - (a + b)
+    return (a + b) - (a - b)
 
-print(sumDiff(100, 500))
+print(sumDiff(10, 5))
